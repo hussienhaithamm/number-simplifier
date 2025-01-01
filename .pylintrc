@@ -1,0 +1,17 @@
+[MASTER]
+ignore=CVS,.git,__pycache__,.venv,.pytest_cache
+persistent=yes
+load-plugins=
+
+[MESSAGES CONTROL]
+disable=C0111,R0903,C0103
+
+[FORMAT]
+max-line-length=100
+indent-string='    '
+
+[BASIC]
+good-names=i,j,k,ex,Run,_,fd,fp
+
+[MISCELLANEOUS]
+notes=FIXME,XXX,TODO

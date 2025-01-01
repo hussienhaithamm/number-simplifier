@@ -1,0 +1,19 @@
+# Testing
+pytest==8.3.4
+
+# Code Quality
+flake8==7.0.0
+pylint==3.0.3
+black==23.12.1
+mypy==1.8.0
+
+# Documentation
+sphinx==7.1.2
+sphinx-rtd-theme==2.0.0
+
+# Type checking
+types-setuptools
+types-PyYAML
+
+# Logging
+python-json-logger==2.0.7
